@@ -1,0 +1,27 @@
+{
+  "title": "Soilwork: a reading companion to fundamental laws of soil, environmental and agricultural science",
+  "upload_type": "software",
+  "description": "<p>Soilwork is an interactive single-page reading companion that explains fundamental laws and processes in physics, chemistry, soil science, environmental science, research methods and agricultural economics.</p><p>It contains 103 entries (30 full articles), a concept map, 14 reading paths, one-card briefs and a 216-question quiz built around common misconceptions. Wrong answers explain the misconception and link to the section to reread; 105 questions cite a textbook page. It runs as a static web page with no build step.</p>",
+  "creators": [
+    {
+      "name": "Jääskeläinen, Miiro",
+      "affiliation": "Seinäjoki University of Applied Sciences (SEAMK)"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "version": "1.0.0",
+  "language": "eng",
+  "keywords": [
+    "soil science",
+    "soil physics",
+    "soil chemistry",
+    "nitrogen cycle",
+    "environmental science",
+    "agricultural economics",
+    "research methods",
+    "education",
+    "misconceptions",
+    "quiz"
+  ]
+}

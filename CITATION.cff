@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use Soilwork, please cite it as below."
+type: software
+title: "Soilwork: a reading companion to fundamental laws of soil, environmental and agricultural science"
+abstract: >-
+  Interactive single-page reading companion with 103 entries on fundamental laws
+  and processes in physics, chemistry, soil science, environmental science,
+  research methods and agricultural economics, a concept map, 14 reading paths,
+  briefs, and a 216-question quiz built around common misconceptions with
+  feedback that links back to the section to reread.
+authors:
+  - family-names: "Jääskeläinen"
+    given-names: "Miiro"
+    affiliation: "Seinäjoki University of Applied Sciences (SEAMK)"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # TODO: add your ORCID
+version: "1.0.0"
+date-released: "2026-11-04"
+license: CC-BY-4.0
+keywords:
+  - soil science
+  - soil physics
+  - soil chemistry
+  - nitrogen cycle
+  - environmental science
+  - agricultural economics
+  - research methods
+  - education
+  - misconceptions
+  - quiz
+# repository-code: "https://github.com/<user>/soilwork"   # TODO: add after creating the GitHub repository

@@ -1,0 +1,14 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Secrets and local environment
+.env
+.env.*
+
+# Never commit source books, OCR output or scans
+*.pdf
+ocr/
